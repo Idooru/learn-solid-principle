@@ -12,12 +12,12 @@ public class DriverWithNoOcp {
 
 class TruckBefore {
     public void drive() {
-        System.out.println("트럭 운전");
+        System.out.println("drive truck");
     }
 }
 
 class BusBefore {
     public void drive() {
-        System.out.println("버스 운전");
+        System.out.println("drive bus");
     }
 }
